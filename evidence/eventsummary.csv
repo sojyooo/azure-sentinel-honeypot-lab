@@ -1,0 +1,44 @@
+﻿EventID,Activity,Count
+4625,"4625 - An account failed to log on.",431732
+4776,"4776 - The domain controller attempted to validate the credentials for an account.",427163
+4688,"4688 - A new process has been created.",3134
+4798,"4798 - A user's local group membership was enumerated.",709
+4673,"4673 - A privileged service was called.",699
+4662,"4662 - An operation was performed on an object.",499
+4702,"4702 - A scheduled task was updated.",455
+4627,"4627 - Group membership information.",253
+4624,"4624 - An account was successfully logged on.",253
+4672,"4672 - Special privileges assigned to new logon.",245
+4799,"4799 - A security-enabled local group membership was enumerated",214
+5379,5379,143
+4945,"4945 - A rule was listed when the Windows Firewall started.",71
+4957,"4957 - Windows Firewall did not apply the following rule:",22
+4622,"4622 - A security package has been loaded by the Local Security Authority.",10
+4611,"4611 - A trusted logon process has been registered with the Local Security Authority.",6
+5061,"5061 - Cryptographic operation.",5
+4634,"4634 - An account was logged off.",5
+5058,"5058 - Key file operation.",5
+4674,"4674 - An operation was attempted on a privileged object.",4
+4614,"4614 - A notification package has been loaded by the Security Account Manager.",3
+4953,"4953 - A rule has been ignored by Windows Firewall because it could not parse the rule.",3
+4698,"4698 - A scheduled task was created.",3
+4648,"4648 - A logon was attempted using explicit credentials.",3
+4699,"4699 - A scheduled task was deleted.",2
+6416,"6416 - A new external device was recognized by the System",2
+4701,"4701 - A scheduled task was disabled.",2
+4616,"4616 - The system time was changed.",2
+4948,"4948 - A change has been made to Windows Firewall exception list. A rule was deleted.",1
+5059,"5059 - Key migration operation.",1
+4902,"4902 - The Per-user audit policy table was created.",1
+6417,"6417 - The FIPS mode crypto selftests succeeded.",1
+4947,"4947 - A change has been made to Windows Firewall exception list. A rule was modified.",1
+5024,"5024 - The Windows Firewall Service has started successfully.",1
+5033,"5033 - The Windows Firewall Driver has started successfully.",1
+4826,"4826 - Boot Configuration Data loaded.",1
+4944,"4944 - The following policy was active when the Windows Firewall started.",1
+4608,"4608 - Windows is starting up.",1
+4696,"4696 - A primary token was assigned to process.",1
+1100,"1100 - The event logging service has shut down.",1
+4610,"4610 - An authentication package has been loaded by the Local Security Authority.",1
+4946,"4946 - A change has been made to Windows Firewall exception list. A rule was added.",1
+4740,"4740 - A user account was locked out.",1

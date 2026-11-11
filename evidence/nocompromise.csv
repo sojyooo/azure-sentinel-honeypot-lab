@@ -1,0 +1,12 @@
+﻿TargetUserName,LogonType,IpAddress,LogonProcessName,Count
+SYSTEM,5,"-","Advapi  ",241
+"ANONYMOUS LOGON",3,"20.29.65.92","NtLmSsp ",2
+"DWM-1",2,"-","Advapi  ",2
+"ANONYMOUS LOGON",3,"188.246.162.145","NtLmSsp ",1
+"ANONYMOUS LOGON",3,"52.233.81.97","NtLmSsp ",1
+SYSTEM,0,"-","-",1
+"UMFD-1",2,"-","Advapi  ",1
+"ANONYMOUS LOGON",3,"172.132.48.142","NtLmSsp ",1
+"UMFD-0",2,"-","Advapi  ",1
+"NETWORK SERVICE",5,"-","Advapi  ",1
+"LOCAL SERVICE",5,"-","Advapi  ",1

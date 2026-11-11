@@ -1,0 +1,6 @@
+﻿"TimeGenerated [UTC]",OperationName,Result,Actor
+"11/11/2026, 5:24:53.455 AM","Add member to role requested (PIM activation)",success,"Jordan Patel (IT)"
+"11/11/2026, 5:24:55.649 AM","Add member to role approval requested (PIM activation)",success,"Jordan Patel (IT)"
+"11/11/2026, 5:28:00.502 AM","Add member to role request approved (PIM activation)",success,"Tenant Admin"
+"11/11/2026, 5:28:01.380 AM","Add member to role",success,"MS-PIM"
+"11/11/2026, 5:28:07.544 AM","Add member to role completed (PIM activation)",success,"Jordan Patel (IT)"

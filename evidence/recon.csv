@@ -1,0 +1,3 @@
+﻿IpAddress,WorkstationName,LogonType,LogonProcessName,AuthenticationPackageName,Attempts,Users,"First [UTC]","Last [UTC]"
+"58.27.212.93","vm-honeypot",3,"NtLmSsp ",NTLM,3809,"[""ADMINISTRATOR"",""ADMINISTRADOR"",""ADMINISTRATEUR"",""АДМИНИСТРАТОР"",""ADMIN"",""USER""]","11/10/2026, 6:22:58.358 PM","11/10/2026, 7:19:36.091 PM"
+"103.111.211.62","vm-honeypot",3,"NtLmSsp ",NTLM,3794,"[""userzzz"",""ADMINISTRATOR"",""ADMINISTRADOR"",""ADMINISTRATEUR"",""АДМИНИСТРАТОР"",""ADMIN"",""anon3209402""]","11/8/2026, 3:55:19.859 PM","11/8/2026, 5:47:10.255 PM"
